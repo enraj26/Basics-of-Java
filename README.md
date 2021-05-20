@@ -1,2 +1,2 @@
-# Basics-of-Java
-Basic of Java Programs
+# Basics-of-Code-Practice
+Basic of Coding
